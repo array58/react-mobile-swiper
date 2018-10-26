@@ -1,0 +1,1 @@
+alert ("react-moble-swiper")
